@@ -1,0 +1,22 @@
+body {
+    background: #a19d96;
+}
+
+.cont {
+    position: absolute;
+    margin-top: 15%; 
+    margin-left: 25%;
+    overflow-y: hidden;
+    width: 50%;
+    padding: 20px;
+    background: #f9f9f9;
+    border: 2px solid #333;
+}
+
+.input-group-spacing {
+    margin-bottom: 20px; 
+}
+
+.form-group-spacing {
+    margin-bottom: 20px; 
+}
